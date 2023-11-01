@@ -19,7 +19,7 @@ Prac 6
 https://colab.research.google.com/drive/1hZyB72-S6-iqHoDxThwtfUjPRRIZ76j7?usp=sharing
 
 Prac 7
-https://colab.research.google.com/drive/13NE1sjrTz4bH4qUqtoiwjoVL2ywcvDcr?authuser=1
+[https://colab.research.google.com/drive/13NE1sjrTz4bH4qUqtoiwjoVL2ywcvDcr?authuser=1](https://colab.research.google.com/drive/1p0VipzcR9drYumf5-u8Dt5Fb_EjgZahu?usp=sharing)
 
 Prac 8
 https://colab.research.google.com/drive/1qkc2WMATHblmQ6Y-jBytzf1QZ_B4-tnc?authuser=1
