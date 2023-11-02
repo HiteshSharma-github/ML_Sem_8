@@ -23,3 +23,9 @@ https://colab.research.google.com/drive/1p0VipzcR9drYumf5-u8Dt5Fb_EjgZahu?usp=sh
 
 Prac 8
 https://colab.research.google.com/drive/1j_9cqtC-RhljURERyfBmoC4yz4CaKGM6?usp=sharing
+
+
+https://colab.research.google.com/drive/1JhrICrRX3jPFCMdDoZZGRbrlgcK9JyQI#scrollTo=otQwNDDaPRzE
+
+https://chat.openai.com/share/df9ac000-ccdb-4bd3-9cf3-4b4bfcadb4fc
+
